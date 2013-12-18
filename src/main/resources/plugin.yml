@@ -1,0 +1,5 @@
+name: CCPush
+main: com.github.lyokofirelyte.CCPush.CCPush
+author: lyokofirelyte
+prefix: CCPush
+version: 1
