@@ -1,5 +1,11 @@
-name: CCPush
-main: com.github.lyokofirelyte.CCPush.CCPush
+name: ChatColor
+main: com.github.lyokofirelyte.ChatColor.CCMain
 author: lyokofirelyte
-prefix: CCPush
+prefix: CC
 version: 1
+depend: [Vault]
+
+commands:
+   chatcolor:
+      description: Chat Color Command
+      usage: /chatcolor <color>

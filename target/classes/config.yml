@@ -1,6 +1,0 @@
-#PUSH IT BABY! Make a folder called "workspace" in the folder where this config is and move your project there.#
-
-git:
-  enable: true
-  repos:
-  - 'WCAPI'
